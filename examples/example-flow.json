@@ -63,7 +63,7 @@
   "type": "StoreNForward",
   "z": "3112733f.a6066c",
   "name": "",
-  "speed": "1000",
+  "speed": "10",
   "connected": "^connected",
   "connectedType": "re",
   "disconnected": "",
