@@ -355,5 +355,5 @@ module.exports = function (RED) {
       });
     });
   }
-  RED.nodes.registerType("queue", QueueNode);
+  RED.nodes.registerType("StoreNForward", QueueNode);
 };
